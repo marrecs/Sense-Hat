@@ -2,7 +2,7 @@ from sense_hat import SenseHat
 
 sense = SenseHat()
 
-sense.show_message("Edu a vestir-te")
+sense.show_message("Edu a vestir-te Modificat")
 
 
 
